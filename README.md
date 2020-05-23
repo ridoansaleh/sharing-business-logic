@@ -1,3 +1,11 @@
+## Sharing Common Logic Between React Components
+
+1. Render Props
+
+2. HOC (Higher-Order Component)
+
+3. Custom Hooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
